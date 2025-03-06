@@ -62,7 +62,8 @@ public class About extends javax.swing.JDialog {
         jPanel5.setPreferredSize(new java.awt.Dimension(493, 50));
         jLabel2.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
         // SOL Putting the correct names in the "About box"
-        jLabel2.setText("Pascal Gremaud (pascal.gremaud@unifr.ch)");
+        jLabel2.setText("<html><p>Jason Condrea (jason.condrea@unifr.ch)</p><p>Alexandre Roellinger (alexandre.roellinger@unifr.ch)</p></html>");
+
         jPanel5.add(jLabel2);
 
         getContentPane().add(jPanel5);
