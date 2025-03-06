@@ -50,6 +50,8 @@ public class WorkShapes extends javax.swing.JFrame {
     private static final long serialVersionUID = 3258409547344394552L;
     private static final int SIZE_LENGTH = 900;
     private static final int SIZE_HEIGHT = 500;
+
+    private static int test = 0;
     
     private Vector<Shape> shapes = new Vector<Shape>();
 
